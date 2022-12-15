@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "title": "Togg (Vergi indirimli)",
+    "price" : 1179000,
+    "image" : "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1864000/togg-a-1864257.jpg"
+  },
+  {
+    "id": 2,
+    "title": "ekmek",
+    "price": 5,
+    "image": "data:image/jpeg;base64,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"
+  },
+  {
+    "id" : 3,
+    "title" : "Damacana su",
+    "price" : 25,
+    "image" : "https://st2.myideasoft.com/idea/fe/26/myassets/products/002/makethumb_min.jpg?revision=1603098927"
+  },
+  {
+    "id" : 4,
+    "title" : "makarna",
+    "price" : 12,
+    "image" : "https://nebilcdn.blob.core.windows.net/citylinux/0000796_ankara-makarna-kalem-500-gr.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Bal 850gr",
+    "price": 120,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXpAnxu8vk2XdmeoTIAMwLi_p99htxPzvkh-oa-4BcU0gwXGk_ajfwSr1Vhz_S4JTvJj_5U-ch_OfVKWmyJaSlrJgyhiBKNG4qhfze-yP2O_-DTQwWv0kxAQ&usqp=CAE"
+  },
+  {
+      "id" : 5,
+      "title": "Zeytin yağı 500ml erken sıkım",
+      "price": 140,
+    "image": "https://images.migrosone.com/sanalmarket/product/04133430/04133430-a77975-1650x1650.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ayçiçek yağı 5lt",
+    "price": 150,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQui96DHNaYTGbdjEeG3lNvdypOhKta5cp4mpXgLrVWa7JmMVTh4rErlrkm6rx_kTympG2LPxZ-WG0pEu_A7GuLnALM4siQ2HJS7GmBs6EhKPJJSJ4MU6yM&usqp=CAE"
+  },
+  {
+    "id" : 7,
+    "title" : "1 kg yerli Muz",
+    "price" : 21,
+    "image": "https://images.migrosone.com/sanalmarket/product/27270000/muz-yerli-kg-9d3d01-1650x1650.jpg"
+  },
+  {
+    "id" : 8,
+    "title": "kangal sucuk",
+    "price": 200,
+    "image": "https://images.migrosone.com/sanalmarket/product/14209434/14209434-ef8831-1650x1650.jpg"
+  },
+  {
+    "id": 9,
+    "title": "ülker 3lü çikolata 99gr",
+    "price": 10.99,
+    "image": "https://images.migrosone.com/sanalmarket/product/07160702/07160702-28b685-1650x1650.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Patos Baharatlı cips",
+    "price": 14.50,
+    "image": "https://images.migrosone.com/sanalmarket/product/05087008/patos-baharat-aromali-patates-cipsi-parti-boy-191-gr-39177c-1650x1650.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Tam Yağlı Olgunlaştırılmış İnek Peyniri 500 G",
+    "price": "80",
+    "image": "https://images.migrosone.com/sanalmarket/product/10019073/10019073-5e21b4-1650x1650.jpg"
+  },
+  {
+    "id": 12,
+    "title": "çaykur filiz çay 500gr",
+    "price": 37.90,
+    "image": "https://images.migrosone.com/sanalmarket/product/03111307/03111307-4ce14c-1650x1650.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Domates Kg",
+    "price": 19.70,
+    "image": "https://images.migrosone.com/sanalmarket/product/28080000/domates-kg-c7462d-1650x1650.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Mandalina kg",
+    "price" : 17,
+    "image": "https://images.migrosone.com/sanalmarket/product/27287012/27287012-fce7ab-1650x1650.jpg"
+  },
+  {
+      "id": 15,
+      "title": "çöp torbası jumbo boy 7 adet",
+    "price": 34,
+    "image": "https://images.migrosone.com/sanalmarket/product/31200130/31200130-8cc5f9-1650x1650.jpg"
+
+},
+  {
+    "id": 16,
+    "title": "16 lı tuvalet kağıdı",
+    "price": 180,
+    "image": "https://images.migrosone.com/sanalmarket/product/31011701/31011701-c69f6e-1650x1650.jpg"
+
+},
+  {
+    "id": 17,
+    "title": "1kg baldo piriniç",
+    "price": 50,
+    "image": "https://images.migrosone.com/sanalmarket/product/01012801/1012801-599419-1650x1650.jpg"
+  },
+  {
+    "id": 18,
+    "title": "türk kahavesi",
+    "price": 20,
+    "image": "https://images.migrosone.com/sanalmarket/product/03211601/03211601-a57e01-1650x1650.jpg"
+  },
+  {
+    "id": 19,
+    "title": "1kg Şeker",
+    "price": 25,
+    "image": "https://images.migrosone.com/sanalmarket/product/03310008/03310008-ef80f1-1650x1650.jpg"
+
+},
+  {
+    "id": 20,
+    "title": "piliç 1kg",
+    "price": 100,
+    "image": "https://images.migrosone.com/sanalmarket/product/46040101/46040101-dacafe-1650x1650.jpg"
+  }
+  ,
+  {
+    "id": 21,
+    "title": "dana 1kg",
+    "price": 150,
+    "image": "https://images.migrosone.com/sanalmarket/product/25010013/25010013-49467a.jpg"
+  },
+  {
+    "id": 22,
+    "title":"dana kıymalık 1kg",
+    "price": 130,
+    "image": "https://images.migrosone.com/sanalmarket/product/25010073/25010073-560231.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Aç bitir 77gr",
+    "price": 12.50,
+    "image": "https://images.migrosone.com/sanalmarket/product/14109132/pinar-ac-bitir-hindi-salam-taze-dilimlenmis-10-dilim-75-gr-f205bc.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Sırma 6lı soda",
+    "price": 21,
+    "image": "https://images.migrosone.com/sanalmarket/product/08040900/08040900-ce837c.jpg"
+  },
+  {
+    "id": 25,
+    "title":"Kola 1.5 litre",
+    "price": 16,
+    "image": "https://images.migrosone.com/sanalmarket/product/8010903/8010903-814551.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Pınar 1lt süt",
+    "price": 23,
+    "image":  "https://images.migrosone.com/sanalmarket/product/11010010/11010010-1ae231.jpg"
+  },
+  {
+    "id": 27,
+    "title": "içim 6lı süt",
+    "price": 34,
+    "image": "https://images.migrosone.com/sanalmarket/product/11013029/11013029-c36872-1650x1650.jpg"
+  },
+  {
+    "id": 28,
+    "title": "tshirt",
+    "price": 150,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTD4ajM110dxiFOtDTwS_YwOSYuBZ6YcEsmSns1L9iO9Rzpm3VplAOn7lWa7DxjBPlr5UDj65byIGnTlBz1fjuwQHEyWqo6QuTMXQBlwxkoPpZAo23RXJ7X&usqp=CAE"
+  },
+  {
+    "id": 29,
+    "title": "Nike spor ayakkabı",
+    "price": 1199.99,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTN12jwZvKxZPzifNjWwi9B4wqhEeDxHd_sZFt6wZkFhDejV6IfN33Ao9AKdVSHdiN_dh-fzCKQ4AnZ4yW-MRsbWZuxQNodcfOIDW_Yk-vdTHACscK5gHTD9wk&usqp=CAE"
+  },
+  {
+    "id": 30,
+    "title": "Ayakkabı",
+    "price": 200,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTpCjR8GWzQigUK1TSySyhZHo4jE76VK36D1R3vpdsyBiBg1vMAf4UMHz_CGpFiv3XeUDBbhRYCJ8KULFWi1z4gvwa_bcWiZsRtPNNQnt64&usqp=CAE"
+  },
+  {
+    "id": 31,
+    "title": "Mont",
+    "price": 699,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQWywbgoejlGZ2xJ6gcbgyBRDZL3ST6fryG-_E3Iz31cAUZm-5gb1JyeMlqsJIH8shIK1ILAxocixPDQXUzRUHDwnTpz2IFrXdTNhR2VyuLPDUizxJ0B35RMA&usqp=CAE"
+  }
+]
